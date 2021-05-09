@@ -23,7 +23,7 @@ def check_role(role):
     return True
 
 
-def get_quote() -> str:
+def get_quote():
     """
     A function which randomly chooses a Jhin quote and returns it.
     :return: str
