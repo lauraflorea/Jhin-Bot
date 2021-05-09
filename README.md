@@ -25,8 +25,10 @@ Users can also see statistics for a particular champion for all of their roles w
 
 ### Help and Bot Test
 
-The bot also exhibits a help command as well as a test command for users to navigate the bot and see if it is alive, respectively.
+The bot also exhibits a help command to navigate the bot.
 ![Alt Text](assets/READMEImages/Help.png)
+
+As well, it has a test command for users to see if it is alive.
 
 ![Alt Text](assets/READMEImages/Test.png)
 
